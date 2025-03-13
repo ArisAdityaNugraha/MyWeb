@@ -1,0 +1,19 @@
+# Paket Utama
+1. *Apache* (Web Server): `httpd` (CentOS/RHEL) atau `apache2` (Ubuntu/Debian)
+2. *MySQL/MariaDB* (Database): `mariadb-server` (CentOS/RHEL) atau `mysql-server` (Ubuntu/Debian)
+3. *PHP*: `php` (minimal versi 7.2)
+4. *PHP-MySQL*: `php-mysql` (untuk integrasi PHP dengan MySQL)
+
+# Paket Pendukung
+1. *PHP-GD*: `php-gd` (untuk pengolahan gambar)
+2. *PHP-XML*: `php-xml` (untuk pengolahan XML)
+3. *PHP-MBString*: `php-mbstring` (untuk pengolahan teks multibahasa)
+4. *PHP-JSON*: `php-json` (untuk pengolahan JSON)
+5. *Composer*: `composer` (untuk pengelolaan dependensi)
+
+# Paket Tambahan (opsional)
+1. *SSL/TLS*: `openssl` (untuk keamanan HTTPS)
+2. *Memcached*: `memcached` (untuk caching)
+3. *Redis*: `redis` (untuk caching)
+
+# Paket Utama 1. *Apache* (Web Server): `httpd` (CentOS/RHEL) atau `apache2` (Ubuntu/Debian) 2. *MySQL/MariaDB* (Database): `mariadb-server` (CentOS/RHEL) atau `mysql-server` (Ubuntu/Debian) 3. *PHP*: `php` (minimal versi 7.2) 4. *PHP-MySQL*: `php-mysql` (untuk integrasi PHP dengan MySQL) # Paket Pendukung 1. *PHP-GD*: `php-gd` (untuk pengolahan gambar) 2. *PHP-XML*: `php-xml` (untuk pengolahan XML) 3. *PHP-MBString*: `php-mbstring` (untuk pengolahan teks multibahasa) 4. *PHP-JSON*: `php-json` (untuk pengolahan JSON) 5. *Composer*: `composer` (untuk pengelolaan dependensi) # Paket Tambahan (opsional) 1. *SSL/TLS*: `openssl` (untuk keamanan HTTPS) 2. *Memcached*: `memcached` (untuk caching) 3. *Redis*: `redis` (untuk caching) Program Development · Enterprise Resource Planning (ERP) · Dolibar
